@@ -11,3 +11,16 @@ C:\Users\jaco487d\source\repos\FunskateLoginTest\FunskateLoginTest\bin\Google.Pr
 C:\Users\jaco487d\source\repos\FunskateLoginTest\FunskateLoginTest\bin\MySql.Data.dll
 C:\Users\jaco487d\source\repos\FunskateLoginTest\FunskateLoginTest\bin\Google.Protobuf.xml
 C:\Users\jaco487d\source\repos\FunskateLoginTest\FunskateLoginTest\bin\MySql.Data.xml
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\FunskateLoginTest.dll.config
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\FunskateLoginTest.dll
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\FunskateLoginTest.pdb
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\Google.Protobuf.dll
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\MySql.Data.dll
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\Google.Protobuf.xml
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\bin\MySql.Data.xml
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\obj\Debug\FunskateLoginTest.csprojResolveAssemblyReference.cache
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\obj\Debug\FunskateLoginTest.csproj.CoreCompileInputs.cache
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\obj\Debug\FunskateLoginTest.dll
+C:\Users\jaco487d\Documents\funskate\Funskate\FunskateLoginTest\FunskateLoginTest\obj\Debug\FunskateLoginTest.pdb
